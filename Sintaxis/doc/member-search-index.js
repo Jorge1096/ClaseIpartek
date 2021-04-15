@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.ipartek.formacion","c":"Sintaxis","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"com.ipartek.formacion","c":"Sintaxis","l":"Sintaxis()","url":"%3Cinit%3E()"}]
